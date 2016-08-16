@@ -6,4 +6,3 @@ node_modules
 **/lib/*
 **/.nyc_output/*
 **/coverage/*
-commandline-ify.js
