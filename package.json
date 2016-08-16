@@ -1,5 +1,5 @@
 {
-  "name": "cli-ify",
+  "name": "commandline-ify",
   "description": "Make a CLI out of (almost) any node module",
   "main": "./commandline-ify.js",
   "scripts": {
