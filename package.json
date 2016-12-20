@@ -31,7 +31,7 @@
   "devDependencies": {
     "commitizen": "^2.8.2",
     "cz-conventional-changelog": "^1.1.6",
-    "ghooks": "^1.2.4",
+    "ghooks": "^2.0.0",
     "semantic-release": "^4.3.5",
     "validate-commit-msg": "^2.6.1",
     "in-publish": "^2.0.0"
