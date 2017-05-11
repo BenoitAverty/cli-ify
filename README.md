@@ -1,5 +1,7 @@
 # cli-ify
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/BenoitAverty/commandline-ify.svg)](https://greenkeeper.io/)
+
 Make a CLI out of (almost) any node module
 
 [![Travis](https://img.shields.io/travis/BenoitAverty/commandline-ify.svg)](https://travis-ci.org/BenoitAverty/commandline-ify)
